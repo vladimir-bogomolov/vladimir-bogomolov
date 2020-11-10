@@ -29,4 +29,5 @@ Personalized label scanning app to detect hidden food allergens for people with 
 
 #### Connect with me. Seriously, I am waiting.
 📫 service@froodapp.com
+
 [LinkedIn](https://www.linkedin.com/in/vladi-bogomolov/)
