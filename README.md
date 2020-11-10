@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am continuously learning junior web developer with a Ph.D. in technical science. Currently in a process of switching my hobby into my job. I am working for the [Frood App](https://froodapp.com/) and learning web-development with [HackYourFuture](https://www.hackyourfuture.net/).
+
+#### Personal projects
+[**Frood App**](https://froodapp.com/)
+Personalized label scanning app to detect hidden food allergens for people with a gluten or lactose intolerance. The app is in proggress, but you can try out the beta WhatsApp prototype. It can find hidden gluten and lactose if you send a photo of ingredients list. [Try out, it's free!](https://froodapp.com/en/download/)
+
+#### GitHub stats
+![Vladimir's github stats](https://github-readme-stats.vercel.app/api?username=vladimir-bogomolov)](https://github.com/anuraghazra/github-readme-stats)
+
+
