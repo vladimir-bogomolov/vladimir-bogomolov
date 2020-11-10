@@ -23,4 +23,5 @@ Personalized label scanning app to detect hidden food allergens for people with 
 #### GitHub stats
 ![Vladimir's github stats](https://github-readme-stats.vercel.app/api?username=vladimir-bogomolov)
 
-
+#### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-bogomolov)](https://github.com/vladimir-bogomolov/github-readme-stats)
