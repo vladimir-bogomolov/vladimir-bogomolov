@@ -28,6 +28,6 @@ Personalized label scanning app to detect hidden food allergens for people with 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-bogomolov)
 
 #### Connect with me. Seriously, I am waiting.
-📫 service@froodapp.com
+📫 vladimir.y.bogomolov@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/vladi-bogomolov/)
