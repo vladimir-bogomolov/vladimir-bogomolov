@@ -23,8 +23,8 @@ I have no idea why you are here, but If you are thinking to learn web-developmen
 
 Personalized label scanning app to detect hidden food allergens for people with a gluten or lactose intolerance. The beta for Android is available. It can find hidden gluten and lactose by scanning an ingredients list. [Try out, it's free!](https://froodapp.com/en/download/)
 
-#### GitHub stats
-![Vladimir's github stats](https://github-readme-stats.vercel.app/api?username=vladimir-bogomolov)
+<!-- #### GitHub stats
+![Vladimir's github stats](https://github-readme-stats.vercel.app/api?username=vladimir-bogomolov) -->
 
 #### Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-bogomolov)
