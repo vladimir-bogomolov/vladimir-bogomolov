@@ -19,6 +19,11 @@ I am JS, TS, Python developer and Salesforce certified B2C Commerce Architect. C
 I have no idea why you are here, but If you are thinking to learn web-development and based in Amsterdam, then [HackYourFuture](https://www.hackyourfuture.net/) - is the best programming school for you.
 
 #### Connect with me - let's build something cool together!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,aws,babel,bash,bitbucket,bootstrap,cpp,css,cypress,django,docker,express,figma,flask,gcp,git,gitlab,github,html,ai,js,jenkins,jest,jquery,linux,mongodb,mysql,nextjs,nodejs,postman,powershell,py,react,redux,terraform,ts,vscode,windows&perline=10&size=40" />
+  </a>
+</p>
 📫 vladimir.y.bogomolov@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/vladi-bogomolov/)
